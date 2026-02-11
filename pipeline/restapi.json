@@ -1,0 +1,9 @@
+{
+	"name": "restapi",
+	"properties": {
+		"folder": {
+			"name": "realtime_practice"
+		},
+		"annotations": []
+	}
+}
